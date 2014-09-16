@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DCUHello</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome to Oscail\'s Mobile Development Course</string>
+    <string name="button">Button</string>
+
+</resources>
