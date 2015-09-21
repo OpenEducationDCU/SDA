@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/DROPBOX/Dropbox/Android_oscail/Android_2015_CODE/ViewGroupMaterial/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="colours">
+		<item>red</item>
+		<item>orange</item>
+		<item>yellow</item>
+		<item>green</item>
+		<item>blue</item>
+		<item>indigo</item>
+		<item>violet</item>
+		<item> aqua </item>
+		<item> black</item>
+		<item>blue</item>
+		<item>fuchsia</item>
+		<item>gray</item>
+		<item>grey</item>
+		<item>lime</item>
+		<item>maroon</item>
+		<item>navy</item>
+		<item>olive</item>
+		<item>purple</item>
+		<item>silver</item>
+		<item>teal</item>
+		<item>white</item>
+	</string-array>
+    <string-array name="ui_mood_spinner_entries">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Tired</item>
+        <item>Rested</item>
+        <item>Stressed</item>
+        <item>Fair to middling</item>
+        <item>Great</item>
+    </string-array>
+    <string name="app_name">ViewGroups</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_message">Cancel</string>
+    <string name="color_prompt">Pick a Color. Any Color.</string>
+    <string name="i_am_here_message">Got here</string>
+    <string name="preference_key_profile_email">profile_email</string>
+    <string name="preference_key_profile_gender">profile_gender</string>
+    <string name="preference_name">my_shared_preferences</string>
+    <string name="save_message">Saved ;-)</string>
+    <string name="send">Send</string>
+    <string name="subject_">Subject:</string>
+    <string name="to_">To:</string>
+    <string name="ui_button_cancel_title">Cancel</string>
+    <string name="ui_button_date_time_layout_title">Date and Time</string>
+    <string name="ui_button_date_title">Set Date</string>
+    <string name="ui_button_goback_title">go back</string>
+    <string name="ui_button_listview_layout_title">ListView Layout</string>
+    <string name="ui_button_save_title">Save</string>
+    <string name="ui_button_scrollview_layout_title">ScrollView Layout</string>
+    <string name="ui_button_shared_preference_layout_title">Shared Preferenences</string>
+    <string name="ui_button_time_title">Set Time</string>
+    <string name="ui_complex_linear_layout_title">Common: Linear Layout</string>
+    <string name="ui_date_time_title">Set the date and time</string>
+    <string name="ui_dcu_message">DCU Open Connected </string>
+    <string name="ui_dcu_picture">DCU Label</string>
+    <string name="ui_mood_spinner_title">How are you feeling:</string>
+    <string name="ui_newviews_relative_layout_title">New Views: Relative Layout</string>
+    <string name="ui_profile_date_hint">MM/DD/YYYY</string>
+    <string name="ui_profile_date_title">Date:</string>
+    <string name="ui_profile_demand_title">I want an A or else ;-)</string>
+    <string name="ui_profile_department_title">Computer Science Department</string>
+    <string name="ui_profile_device_title">Android Mobile Phones</string>
+    <string name="ui_profile_email_hint">Your Email here</string>
+    <string name="ui_profile_email_title">Email:</string>
+    <string name="ui_profile_gender_female">Female</string>
+    <string name="ui_profile_gender_male">Male</string>
+    <string name="ui_profile_gender_title">Gender:</string>
+    <string name="ui_profile_name_hint">Your name here</string>
+    <string name="ui_profile_name_title">Name</string>
+    <string name="ui_profile_phone_hint">Your phone number here</string>
+    <string name="ui_profile_phone_title">Phone:</string>
+    <string name="ui_simple_linear_layout_title">Simple Linear Layout</string>
+    <string name="ui_simple_relative_layout_title">Simple Relative Layout</string>
+    <!-- From: file:/D:/DROPBOX/Dropbox/Android_oscail/Android_2015_CODE/ViewGroupMaterial/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Material">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroup1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroup1\app\build\intermediates\pre-dexed\debug\classes-5f46dc796c75a4a41f615a7dfcf8e3b05669237a.jar" />
+    </item>
+    <item
+        jar="D:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroup1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-69e243d36af8fba99ac5e58d6ff17be28bffa52b.jar" />
+    </item>
+    <item
+        jar="D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroup1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroup1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-68e6fd346938f3bee116ca9eefef48a874325676.jar" />
+    </item>
+
+</items>

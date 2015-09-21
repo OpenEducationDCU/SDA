@@ -1,0 +1,4 @@
+D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\databasedemo\app\build\intermediates\classes\debug
+D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\databasedemo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-0139294557cee5fa143296a85e253716c77a4f3d.jar
+D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\databasedemo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-27ca0e6a1ce9aef1260568e0db84c54ca151ce07.jar
+D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\databasedemo\app\build\intermediates\pre-dexed\debug\classes-2d08c3199a60cd7541af3a0c61fedf6746d482fc.jar

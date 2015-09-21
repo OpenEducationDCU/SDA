@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <AnalogClock
+        android:id="@+id/analogClock1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ratingBar1"
+        android:layout_below="@+id/ratingBar1"
+        android:layout_marginLeft="22dp"
+        android:layout_marginTop="36dp" />
+
+    <RatingBar
+        android:id="@+id/ratingBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="21dp" />
+
+    <ImageView
+        android:id="@+id/dcuimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/analogClock1"
+        android:layout_below="@+id/analogClock1"
+        android:layout_marginRight="38dp"
+        android:layout_marginTop="56dp"
+        android:adjustViewBounds="true"
+        android:clickable="true"
+        android:contentDescription="@string/ui_dcu_picture"
+        android:maxHeight="250dp"
+        android:maxWidth="250dp"
+        android:minHeight="50dp"
+        android:minWidth="50dp"
+        android:onClick="onClickDcu"
+        android:scaleType="fitXY"
+        android:src="@drawable/capture" />
+
+</RelativeLayout>	

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="androidcourse.example.viewgroup.layouts"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="androidcourse.examples.viewgroup.layouts.MainLayoutActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="androidcourse.examples.viewgroup.layouts.SimpleLinearLayout" />
+        <activity android:name="androidcourse.examples.viewgroup.layouts.SimpleRelativeLayout" />
+        <activity android:name="androidcourse.examples.viewgroup.layouts.LinearLayoutActivity" />
+        <activity android:name="androidcourse.examples.viewgroup.layouts.RelativeLayoutActivity" />
+        <activity android:name="androidcourse.examples.viewgroup.layouts.ScrollViewLayoutActivity" />
+        <activity android:name="androidcourse.examples.viewgroup.layouts.ListViewLayoutActivity" />
+        <activity android:name="androidcourse.examples.viewgroup.layouts.DateAndTimeActivity" />
+        <activity android:name="androidcourse.examples.viewgroup.layouts.SharedPreferencesActivity" />
+    </application>
+
+</manifest>

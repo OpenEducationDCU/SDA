@@ -1,0 +1,1 @@
+This application is a modification of the code taken from Dr Campbell’s site ( which incidentally was  a modification of the code provided at the http://android-er.blogspot.ie/2011/04/start-service-to-send-notification.html?m=1 link)

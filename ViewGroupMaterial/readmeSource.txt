@@ -1,0 +1,1 @@
+The ViewGroup.zip demo is a modification of the Layout.zip demo found at Professor Campbell’s website, with activities from Dr Porter’s site added in. 

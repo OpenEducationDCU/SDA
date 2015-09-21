@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/dateTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ui_date_time_title"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/dateBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onDateClicked"
+        android:text="@string/ui_button_date_title" />
+
+    <Button
+        android:id="@+id/timeBtn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onTimeClicked"
+        android:text="@string/ui_button_time_title" />
+
+</LinearLayout>

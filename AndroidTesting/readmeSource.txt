@@ -1,0 +1,1 @@
+This code is the gradle version of the eclipse code available at  http://developer.android.com/shareables/training/AndroidTestingFun.zip

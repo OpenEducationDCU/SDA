@@ -1,0 +1,1 @@
+This demo is a slight modification from the demo taken from Dr. Campbell’s site, http://www.cs.dartmouth.edu/~campbell/cs65/code/databasedemo.zip which is based on a tutorial from Lars Vogella (http://www.vogella.com/tutorials/AndroidSQLite/article.html

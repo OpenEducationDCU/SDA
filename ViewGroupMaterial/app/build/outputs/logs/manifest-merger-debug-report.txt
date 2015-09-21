@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:2:1-35:12
+	xmlns:android
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:20.0.0] D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:11:5-33:19
+MERGED from [com.android.support:support-v4:20.0.0] D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:15:9-40
+activity#androidcourse.examples.viewgroup.layouts.MainLayoutActivity
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:17:13-87
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:22:27-74
+activity#androidcourse.examples.viewgroup.layouts.SimpleLinearLayout
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:25:9-96
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:25:19-93
+activity#androidcourse.examples.viewgroup.layouts.SimpleRelativeLayout
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:26:9-98
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:26:19-95
+activity#androidcourse.examples.viewgroup.layouts.LinearLayoutActivity
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:27:9-98
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:27:19-95
+activity#androidcourse.examples.viewgroup.layouts.RelativeLayoutActivity
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:28:9-100
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:28:19-97
+activity#androidcourse.examples.viewgroup.layouts.ScrollViewLayoutActivity
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:29:9-102
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:29:19-99
+activity#androidcourse.examples.viewgroup.layouts.ListViewLayoutActivity
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:30:9-100
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:30:19-97
+activity#androidcourse.examples.viewgroup.layouts.DateAndTimeActivity
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:31:9-97
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:31:19-94
+activity#androidcourse.examples.viewgroup.layouts.SharedPreferencesActivity
+ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:32:9-103
+	android:name
+		ADDED from D:\DROPBOX\Dropbox\Android_oscail\Android_2015_CODE\ViewGroupMaterial\app\src\main\AndroidManifest.xml:32:19-100

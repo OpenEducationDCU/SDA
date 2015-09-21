@@ -1,0 +1,88 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    
+    
+    <Button
+        android:id="@+id/btn_simplelinear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="onSimpleLinearLayoutClicked"
+        android:text="@string/ui_simple_linear_layout_title" />
+    
+      <Button
+        android:id="@+id/btn_complexlinear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="onComplexLinearLayoutClicked"
+        android:text="@string/ui_complex_linear_layout_title" />
+
+    <Button
+        android:id="@+id/btn_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="onRelativeLayoutClicked"
+        android:text="@string/ui_simple_relative_layout_title" />
+    
+    
+     <Button
+        android:id="@+id/btn_newviews_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="onNVRelativeLayoutClicked"
+        android:text="@string/ui_newviews_relative_layout_title" />
+     
+       <Button
+        android:id="@+id/btn_listview_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="onListViewLayoutClicked"
+        android:text="@string/ui_button_listview_layout_title" />
+     
+
+    <Button
+        android:id="@+id/btn_scrollview_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="onScrollViewLayoutClicked"
+        android:text="@string/ui_button_scrollview_layout_title" />
+
+    <Button
+        android:id="@+id/btn_shared_preference_view_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="onSharedPreferencesClicked"
+        android:text="@string/ui_button_shared_preference_layout_title" />
+
+ 
+
+    <Button
+        android:id="@+id/btn_date_time_view_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="onDateTimeLayoutClicked"
+        android:text="@string/ui_button_date_time_layout_title" />
+
+   
+       
+
+</LinearLayout>
+</ScrollView>
+<!-- From: file:/D:/DROPBOX/Dropbox/Android_oscail/Android_2015_CODE/ViewGroupMaterial/app/src/main/res/layout/activity_main_layout.xml -->
