@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">CKHello</string>
-
-    <string name="textfield1">Name: Colette Kirwan</string>
-    <string name="action_settings">Settings</string>
-    <string name="textfield2">Student Number: 12345654</string>
-</resources>
