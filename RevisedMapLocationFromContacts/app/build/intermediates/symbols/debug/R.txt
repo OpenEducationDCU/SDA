@@ -1,0 +1,4 @@
+int drawable ic_launcher 0x7f020000
+int id mapButton 0x7f050000
+int layout main 0x7f030000
+int string find_address_string 0x7f040000

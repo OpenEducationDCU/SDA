@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_13f14a3959964f7298ef5520d7fd8d20bce4c9ff\classes.dex" />
+    </item>
+    <item
+        jar="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cfd9bbcf0912c7478febab8d4eb44e44f632db4c">
+        <dex dex="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ab11f5839cf305a33937eff207914a56735975c\classes.dex" />
+    </item>
+    <item
+        jar="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c8f7002796d5c1004aff520f28f755405d767f1">
+        <dex dex="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_18430d37e1348927ed777b9cfedb8cee783228fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Fijutsu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c641f25c25bdca6809672b31e307a577c60bcbec\classes.dex" />
+    </item>
+    <item
+        jar="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\DROPBOX\Dropbox\RevisedMapLocationFromContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_9381ac13ab688ad6ceffcd08a031c3ea16c44b4e\classes.dex" />
+    </item>
+
+</items>
