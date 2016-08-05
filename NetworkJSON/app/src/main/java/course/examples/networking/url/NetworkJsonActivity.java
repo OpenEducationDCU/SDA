@@ -49,7 +49,7 @@ public class NetworkJsonActivity extends ListActivity
         private static final String TAG = "HttpGetTask";
 
         // Get your own user name at http://www.geonames.org/login
-        private static final String USER_NAME = "ckirwan";
+        private static final String USER_NAME = "YOUR NAME";
         private static final String URL = "http://api.geonames.org/earthquakesJSON?north=44.1&south=-9.9&east=-22.4&west=55.2&username="
                 + USER_NAME;
         private static final String LONGITUDE_TAG = "lng";
