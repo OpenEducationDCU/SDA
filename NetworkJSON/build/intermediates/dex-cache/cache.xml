@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\DROPBOX\Dropbox\2016CODE\NetworkJSON\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8976591168435e6f59aec5bf6070f62a21156916">
+        <dex dex="D:\DROPBOX\Dropbox\2016CODE\NetworkJSON\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2cbbb026e88a1052c891b0ea53305814999abd55\classes.dex" />
+    </item>
+    <item
+        jar="D:\DROPBOX\Dropbox\2016CODE\NetworkJSON\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c528befac321b027ce13e35abdb2e0373b220e2b">
+        <dex dex="D:\DROPBOX\Dropbox\2016CODE\NetworkJSON\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9a30322c4ac8831055636e36511fb9df620c0252\classes.dex" />
+    </item>
+
+</items>
