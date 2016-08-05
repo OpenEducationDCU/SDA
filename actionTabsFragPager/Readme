@@ -1,0 +1,12 @@
+Images information;
+The demo actiontabFragPager.zip  was created using many sources of information specifically stackExchange (appropriate URLs stated below)
+and the Android Developer site and the non-dcu images were obtained from Wikimedia Commons (https://commons.wikimedia.org/wiki/Main_Page). 
+
+The Android Asset Studio (https://romannurik.github.io/AndroidAssetStudio) was used to create different densities of the images.
+Attribution of the images used are as follows: Fossil By Didier Descouens (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons
+Eagle Eye: By Woodwalker, with a retouche by Poxnar [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+Love Heart: By (Bubinator) [Public domain], via Wikimedia Commons
+
+The campus map came from https://www.dcu.ie/info/campus.shtml
+URLs:
+see http://stackoverflow.com/questions/26692233/what-is-the-app-android-xml-namespace
