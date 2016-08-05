@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="3106575435094051"
+    token="8155505946065499914" >
+
+    <task
+        name="javac"
+        duration="1606" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4053" />
+    <task
+        name="verifier"
+        duration="689" />
+
+    <artifact
+        location="D:\DROPBOX\Dropbox\2016CODE\NetworkVolley\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="3106575435094051" >
+        <artifact
+            location="D:\DROPBOX\Dropbox\2016CODE\NetworkVolley\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

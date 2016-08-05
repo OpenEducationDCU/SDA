@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\DROPBOX\Dropbox\2016CODE\NetworkVolley\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f93bd9362e2dbc6ff6179c31ee9c0a23343e75ab">
+        <dex dex="D:\DROPBOX\Dropbox\2016CODE\NetworkVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a3f86beba56d4bb8737e315cde32130d50ea0896\classes.dex" />
+    </item>
+    <item
+        jar="D:\DROPBOX\Dropbox\2016CODE\NetworkVolley\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="434f322931b81db29b1105207558e65e230d1c24">
+        <dex dex="D:\DROPBOX\Dropbox\2016CODE\NetworkVolley\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b366025a41c3fceb1fde9013cbab5d1ffa8aba23\classes.dex" />
+    </item>
+
+</items>
