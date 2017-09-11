@@ -1,0 +1,72 @@
+apply plugin: 'com.android.application'
+repositories {
+    maven { url "https://maven.google.com" }
+    flatDir {
+        dirs 'libs'
+    }
+}
+android {
+    compileSdkVersion 25
+    buildToolsVersion '26.0.1'
+
+    defaultConfig {
+        applicationId "com.google.firebase.codelab.sdachat"
+        minSdkVersion 19
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+        exclude 'META-INF/NOTICE'
+    }
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:support-v4:25.3.1'
+
+    // Displaying images
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+
+    compile 'de.hdodenhof:circleimageview:1.3.0'
+
+    // Google
+    compile 'com.google.android.gms:play-services-auth:11.0.4'
+
+    // Firebase
+    /*compile 'com.google.firebase:firebase-analytics:10.2.1'
+    compile 'com.google.firebase:firebase-database:10.2.1'
+    compile 'com.google.firebase:firebase-storage:10.2.1'
+    compile 'com.google.firebase:firebase-auth:10.2.1'
+    compile 'com.google.firebase:firebase-config:10.2.1'
+    compile 'com.google.android.gms:play-services-appinvite:10.2.1'
+    compile 'com.google.firebase:firebase-messaging:10.2.1'
+    compile 'com.google.android.gms:play-services-ads:10.2.1'
+    compile 'com.google.firebase:firebase-crash:10.2.1'
+    compile 'com.google.firebase:firebase-appindexing:10.2.1'*/
+
+
+    compile 'com.google.firebase:firebase-database:11.0.4'
+    compile 'com.google.firebase:firebase-auth:11.0.4'
+    compile 'com.google.firebase:firebase-storage:11.0.4'
+    compile 'com.google.firebase:firebase-messaging:11.0.4'
+    compile 'com.firebaseui:firebase-ui-auth:2.2.0'
+    // Firebase UI
+    compile 'com.firebaseui:firebase-ui-database:2.2.0'
+
+
+}
+
+apply plugin: 'com.google.gms.google-services'
