@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tabs And Swipes</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+        <string name="ui_love_picture">Love picture</string>
+    <string name="ui_eye_picture">Eye picture</string>
+    <string name="ui_dcu_picture">Campus picture</string>
+    <string name="ui_fossil_picture">Fossil picture</string>
+
+        <!-- Tab Strings -->
+        <string name="ui_tabname_find">find</string>
+        <string name="ui_tabname_chat">chat</string>
+        <string name="ui_tabname_meet">meet</string>
+        <string name="ui_tabname_party">party</string>
+
+        <!-- Menu Strings -->
+        <string name="ui_menu_search">search</string>
+        <string name="ui_menu_send">send</string>
+        <string name="ui_menu_add">add</string>
+        <string name="ui_menu_quit">quit</string>
+        <string name="ui_menu_feedback">feedback</string>
+        <string name="ui_menu_about">about</string>
+        <string name="ui_menu_share">share</string>
+    <string name="PressMe">Press me</string>
+
+
+</resources>
